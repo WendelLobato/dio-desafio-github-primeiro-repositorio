@@ -1,2 +1,4 @@
-# dio-desafio-github-primeiro-repositorio
-Desafio de projeto sobre GIT/GITHUB, estudos voltados ao bootcamp GIT
+# Repositório de desafio do projeto GIT/GITHUB
+
+## Links Úteis:
+[Sintaxe Básica Markdown](https://www.markdownguide.org/)
